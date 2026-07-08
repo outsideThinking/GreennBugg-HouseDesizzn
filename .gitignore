@@ -1,5 +1,7 @@
-echo "node_modules/
-.env
+node_modules/
 dist/
-build/
-.DS_Store" >> .gitignore
+.env
+.env.local
+.vscode/
+.DS_Store
+Thumbs.db
