@@ -1,24 +1,5 @@
-# Dependencies
-node_modules/
-
-# Production build
-dist/
-
-# Environment variables
+echo "node_modules/
 .env
-.env.local
-.env.*.local
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Editor
-.vscode/
-.idea/
+dist/
+build/
+.DS_Store" >> .gitignore
