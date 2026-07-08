@@ -2,8 +2,8 @@ export const siteData = {
   navigation: {
     brand: {
       first: 'Greenn',
-      accent: 'Bugg',
-      last: 'House'
+      accent: ' Bugg',
+      last: 'House Deziign'
     },
     links: [
       { label: 'Home', href: '#home' },
@@ -36,10 +36,10 @@ export const siteData = {
     description:
       'Greenn Bugg House Deziign is a professional architecture and interior design studio dedicated to creating functional, elegant, and innovative spaces. Our mission is to transform ideas into beautifully designed environments that improve everyday living.',
     stats: [
-      { value: 100, suffix: '+', label: 'Projects Completed' },
-      { value: 50, suffix: '+', label: 'Happy Clients' },
-      { value: 8, suffix: '+', label: 'Years Experience' },
-      { value: 20, suffix: '+', label: 'Design Awards' }
+      { value: 1000, suffix: '+', label: 'Projects Completed' },
+      { value: 300, suffix: '+', label: 'Happy Clients' },
+      { value: 5, suffix: '+', label: 'Years Experience' },
+      { value: 10, suffix: '+', label: 'Design Awards' }
     ]
   },
   services: {
@@ -213,8 +213,10 @@ export const siteData = {
     title: 'Get in',
     accent: 'Touch',
     details: [
-      { icon: 'mapPin', text: '123 Design Ave, Studio City' },
+      { icon: 'mapPin', text: 'Umanagar, near skmch HP Petrol pump Muzaffarpur, 842004' },
+      { icon: 'mapPin', text: 'H-Block, sector-63, Noida 201301' },
       { icon: 'phone', text: '+91 6203740886' },
+      { icon: 'phone', text: '+91 7827398853' },
       { icon: 'mail', text: 'rohitprakash7061@gmail.com' },
       { icon: 'clock', text: 'Mon-Sat 10AM-7PM' },
       { icon: 'map', text: 'Google Map' }
@@ -277,7 +279,7 @@ export const siteData = {
       { label: 'Privacy Policy', href: '/privacy-policy.pdf' },
       { label: 'Terms', href: '#' }
     ],
-    contact: ['+91 6203740886', 'deziigngreenbugghouse@gmail.com'],
-    copyright: 'Copyright 2026 Greenn Bugg House Deziign'
+    contact: ['+91 6203740886', '+91 7827398853', 'deziigngreenbugghouse@gmail.com'],
+    copyright: 'Copyright 2022 Greenn Bugg House Deziign'
   }
 };
