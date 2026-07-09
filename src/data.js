@@ -80,61 +80,61 @@ export const siteData = {
         name: 'Premium Café Kiosk',
         category: 'residence',
         image:
-          '/public/ChatGPT Image Mar 14, 2026, 11_35_31 AM.png'
+          '/public/PremiumCafKiosk.png'
       },
       {
         name: 'Grand Architectural Facade',
         category: 'residence',
         image:
-          '/public/1753858781549.jpg.jpeg'
+          '/public/GrandArchitecturalFacade.jpeg'
       },
       {
         name: 'Farmhouse',
         category: 'residence',
         image:
-          '/public/CLASSIC HOUSE DESIGN.jpg.jpeg'
+          '/public/Farmhouse.jpeg'
       },
       {
         name: 'Restaurant',
         category: 'commercial',
         image:
-          '/public/DHARMENDRA JII.png'
+          '/public/Restaurant.png'
       },
       {
         name: 'Modern Zen Entrance Design',
         category: 'commercial',
         image:
-          '/public/MANOJ SIR TERRACE GARDEN 1.png'
+          '/public/ModernZenEntranceDesign.png'
       },
       {
         name: 'Office Interior',
         category: 'interior',
         image:
-          '/public/RECEPTION.jpg.jpeg'
+          '/public/OfficeInterior.png'
       },
       {
         name: 'Modern 3D Floor Plan',
         category: 'interior',
         image:
-          '/public/SANKALP JI 3D FLOOR PLAN.png'
+          '/public/Modern3DFloorPlan.png'
       },
       {
         name: 'Luxury Duplex Residence',
         category: 'interior',
         image:
-          '/public/RISHU JII.png'
+          '/public/LuxuryDuplexResidence.png'
       },
       {
         name: 'Premium House Design',
         category: 'commercial',
         image:
-          '/public/G+1 classical house design.jpg.jpeg'
+          '/public/PremiumHouseDesign.png'
       },
       {
         name: 'Elevation Design',
         category: 'residence',
         image:
-          '/public/MR.VIJAY SINGH 1.png'
+          '/public/ElevationDesign.png'
       }
     ]
   },
