@@ -80,61 +80,61 @@ export const siteData = {
         name: 'Premium Café Kiosk',
         category: 'residence',
         image:
-          '/public/premium-cafe-kiosk.png'
+          "/public/premium-cafe-kiosk.png"
       },
       {
         name: 'Grand Architectural Facade',
         category: 'residence',
         image:
-          '/public/grand-architectural-facade.jpeg'
+          "/public/grand-architectural-facade.jpeg"
       },
       {
         name: 'Farmhouse',
         category: 'residence',
         image:
-          '/public/farmhouse.jpeg'
+          "/public/farmhouse.jpeg"
       },
       {
         name: 'Restaurant',
         category: 'commercial',
         image:
-          '/public/restaurant.png'
+          "/public/restaurant.png"
       },
       {
         name: 'Modern Zen Entrance Design',
         category: 'commercial',
         image:
-          '/public/modern-zen-entrance-design.png'
+          "/public/modern-zen-entrance-design.png"
       },
       {
         name: 'Office Interior',
         category: 'interior',
         image:
-          '/public/office-interior.png'
+          "/public/office-interior.png"
       },
       {
         name: 'Modern 3D Floor Plan',
         category: 'interior',
         image:
-          '/public/modern-3d-floor-plan.png'
+          "/public/modern-3d-floor-plan.png"
       },
       {
         name: 'Luxury Duplex Residence',
         category: 'interior',
         image:
-          '/public/luxury-duplex-residence.png'
+          "/public/luxury-duplex-residence.png"
       },
       {
         name: 'Premium House Design',
         category: 'commercial',
         image:
-          '/public/premium-house-design.png'
+          "/public/premium-house-design.png"
       },
       {
         name: 'Elevation Design',
         category: 'residence',
         image:
-          '/public/elevation-design.png'
+          "/public/elevation-design.png"
       }
     ]
   },
