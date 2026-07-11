@@ -54,7 +54,7 @@ export const siteData = {
       title: 'CEO & Founder:',
       titleAccent: 'Greenn Bugg House Deziign',
       bio:
-        'Rohit Prakash leads Greenn Bugg House Deziign with a refined vision for elevated architecture and interiors. His expertise blends contemporary luxury, sustainable planning, and thoughtful craftsmanship to deliver signature spaces that feel both timeless and welcoming. Under his leadership, the studio combines precise execution with inspiring innovation across every residential and commercial project.',
+        'Ar. Rohit Prakash is a graduate of Apeejay Institute of Technology – School of Architecture & Planning (AIT-SAP), Greater Noida, Uttar Pradesh, with a Bachelor s degree in Architecture. He founded Greenn Bugg House Deziign with a vision to create architecture that is timeless, innovative, and deeply connected to its context. His design philosophy is rooted in simplicity, functionality, and sustainability, with a strong emphasis on craftsmanship and attention to detail. Under his leadership, the firm delivers bespoke architectural and interior design solutions that balance aesthetics with purpose, creating spaces that inspire and endure.',
       image:
         '/image.jpeg',
       alt: 'CEO and Founder of Greenn Bugg House Deziign',
