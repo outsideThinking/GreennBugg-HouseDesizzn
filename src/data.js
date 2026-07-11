@@ -42,6 +42,83 @@ export const siteData = {
       { value: 10, suffix: '+', label: 'Design Awards' }
     ]
   },
+  leadership: {
+    id: 'leadership',
+    sectionHeading: 'Meet Our CEO & Founder',
+    cta: {
+      label: 'Message from the Founder',
+      href: '#contact'
+    },
+    ceo: {
+      name: 'Ar. Rohit Prakash',
+      title: 'CEO & Founder:',
+      titleAccent: 'Greenn Bugg House Deziign',
+      bio:
+        'Rohit Prakash leads Greenn Bugg House Deziign with a refined vision for elevated architecture and interiors. His expertise blends contemporary luxury, sustainable planning, and thoughtful craftsmanship to deliver signature spaces that feel both timeless and welcoming. Under his leadership, the studio combines precise execution with inspiring innovation across every residential and commercial project.',
+      image:
+        '/image.jpeg',
+      alt: 'CEO and Founder of Greenn Bugg House Deziign',
+      social: [
+        { label: 'LinkedIn', href: 'https://www.linkedin.com', icon: 'linkedin' },
+        { label: 'Instagram', href: 'https://www.instagram.com', icon: 'instagram' },
+        { label: 'Email', href: 'mailto:deziigngreenbugghouse@gmail.com', icon: 'mail' }
+      ]
+    },
+    teamCards: [
+      {
+        title: 'Architects',
+        value: '25+',
+        description: 'Designing iconic structures with thoughtful, modern precision.',
+        icon: 'Building2'
+      },
+      {
+        title: 'Interior Designers',
+        value: '18+',
+        description: 'Crafting layered interiors with luxury finishes and smart flow.',
+        icon: 'Layers'
+      },
+      {
+        title: 'Structural Engineers',
+        value: '12+',
+        description: 'Delivering safe, elegant frameworks for premium buildings.',
+        icon: 'HardHat'
+      },
+      {
+        title: 'Project Managers',
+        value: '10+',
+        description: 'Coordinating every milestone with clarity and reliability.',
+        icon: 'ClipboardList'
+      },
+      {
+        title: 'Site Engineers',
+        value: '15+',
+        description: 'Overseeing quality on site to keep projects running smoothly.',
+        icon: 'ShieldCheck'
+      },
+      {
+        title: 'Skilled Workers',
+        value: '20+',
+        description: 'Building exceptional details with craftsmanship and care.',
+        icon: 'Users'
+      },
+      {
+        title: 'Customer Support Team',
+        value: '24/7',
+        description: 'Helping clients stay informed and connected through every step.',
+        icon: 'Mail'
+      },
+      {
+        title: 'Quality Inspection Team',
+        value: '100%',
+        description: 'Ensuring premium finishes and exacting quality standards.',
+        icon: 'ShieldCheck'
+      }
+    ],
+    summary: {
+      value: '70+',
+      label: 'Professional Employees'
+    }
+  },
   services: {
     id: 'services',
     title: 'Our',
@@ -73,7 +150,12 @@ export const siteData = {
       { label: 'All', value: 'all' },
       { label: 'Residence', value: 'residence' },
       { label: 'Commercial', value: 'commercial' },
-      { label: 'Interior', value: 'interior' }
+      { label: 'Interior', value: 'interior' },
+      { label: '3D Floor Plan', value: '3D Floor Plan' },
+      { label: 'Villa', value: 'Villa' },
+      { label: 'Resort', value: 'Resort' },
+      { label: 'Restaurant', value: 'Restaurant' },
+      { label: 'Cottage', value: 'Cottage' }
     ],
     items: [
       {
@@ -95,12 +177,6 @@ export const siteData = {
           "/third.jpeg"
       },
       {
-        name: 'Restaurant',
-        category: 'commercial',
-        image:
-          "/forth.png"
-      },
-      {
         name: 'Modern Zen Entrance Design',
         category: 'commercial',
         image:
@@ -113,29 +189,85 @@ export const siteData = {
           "/sixth.png"
       },
       {
-        name: 'Modern 3D Floor Plan',
-        category: 'interior',
-        image:
-          "/seventh.png"
-      },
-      {
         name: 'Luxury Duplex Residence',
         category: 'interior',
         image:
           "/eighth.png"
       },
       {
-        name: 'Premium House Design',
-        category: 'commercial',
+        name: 'Luxury Duplex Residence',
+        category: 'interior',
         image:
-          "/ninth.png"
+          "/inteiorfiftheen.jpeg"
       },
       {
-        name: 'Elevation Design',
-        category: 'residence',
+        name: 'first',
+        category: '3D Floor Plan',
         image:
-          "/tenth.png"
-      }
+          "/interiornin.jpeg"
+      },
+      {
+        name: 'first',
+        category: 'Cottage',
+        image:
+          "/first_floor_architectural_plan.png"
+      },
+      
+      
+      // ============ ADD INTERIOR PROJECTS HERE ============
+      // Copy and paste the template below and replace with your image paths
+      /*
+      {
+        name: 'Your Interior Project Name',
+        category: 'interior',
+        image: '/your-interior-image.jpeg'
+      },
+      */
+      
+      // ============ ADD 3D FLOOR PLAN PROJECTS HERE ============
+      /*
+      {
+        name: 'Your 3D Floor Plan Name',
+        category: '3D Floor Plan',
+        image: '/your-3d-floorplan.jpeg'
+      },
+      */
+      
+      // ============ ADD VILLA PROJECTS HERE ============
+      /*
+      {
+        name: 'Your Villa Project Name',
+        category: 'Villa',
+        image: '/your-villa-image.jpeg'
+      },
+      */
+      
+      // ============ ADD RESORT PROJECTS HERE ============
+      /*
+      {
+        name: 'Your Resort Project Name',
+        category: 'Resort',
+        image: '/your-resort-image.jpeg'
+      },
+      */
+      
+      // ============ ADD RESTAURANT PROJECTS HERE ============
+      /*
+      {
+        name: 'Your Restaurant Project Name',
+        category: 'Restaurant',
+        image: '/your-restaurant-image.jpeg'
+      },
+      */
+      
+      // ============ ADD COTTAGE PROJECTS HERE ============
+      /*
+      {
+        name: 'Your Cottage Project Name',
+        category: 'Cottage',
+        image: '/your-cottage-image.jpeg'
+      },
+      */
     ]
   },
   whyChooseUs: {

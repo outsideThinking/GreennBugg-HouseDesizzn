@@ -1,0 +1,17 @@
+.hero-keywords {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.hero-keywords span {
+  padding: 8px 16px;
+  border-radius: 30px;
+  background: rgba(255,255,255,0.12);
+  border: 1px solid rgba(255,255,255,0.2);
+  font-size: 14px;
+  font-weight: 600;
+}

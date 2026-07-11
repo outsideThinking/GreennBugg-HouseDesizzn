@@ -53,6 +53,7 @@ import Faq from './components/Faq.jsx';
 import Cta from './components/Cta.jsx';
 import Contact from './components/Contact.jsx';
 import PrivacyPolicy from './components/PrivacyPolicy.jsx';
+import Leadership from './components/Leadership.jsx';
 import Footer from './components/Footer.jsx';
 import FloatingActions from './components/FloatingActions.jsx';
 
@@ -115,6 +116,7 @@ function App() {
       <main>
         <Hero data={siteData.hero} />
         <About data={siteData.about} />
+        <Leadership data={siteData.leadership} />
         <Services data={siteData.services} />
         <Projects data={siteData.projects} />
         <WhyChooseUs data={siteData.whyChooseUs} />

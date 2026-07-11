@@ -903,3 +903,41 @@ footer a:hover {
     bottom: 92px;
   }
 }
+/* ===========================
+   About Section SEO Styles
+=========================== */
+
+.about-heading {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 20px 0;
+    color: #222;
+}
+
+.about-copy {
+    max-width: 900px;
+    margin: 15px auto;
+    text-align: center;
+    line-height: 1.8;
+    font-size: 1.05rem;
+}
+/* Contact SEO Section */
+
+.contact-description{
+    max-width:900px;
+    margin:0 auto 40px;
+    text-align:center;
+}
+
+.contact-description h2{
+    font-size:2rem;
+    font-weight:700;
+    margin-bottom:20px;
+}
+
+.contact-description p{
+    font-size:1.05rem;
+    line-height:1.8;
+    color:#555;
+}
